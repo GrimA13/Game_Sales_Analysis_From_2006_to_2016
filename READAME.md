@@ -135,3 +135,6 @@ LIMIT 20;
 | 505 Games | 30.38 | 15.9 | 1.72 | 5 | 53.24 | 18 |
 | Tecmo Koei | 9.08 | 4.43 | 16.7 | 2 | 32.32 | 19 |
 | Atari | 18.39 | 4.81 | 3.35 | 4 | 30.59 | 20 |
+
+# Graph Chart
+[View My PDF Report](Game Sales BI (2006~2016).pdf)
