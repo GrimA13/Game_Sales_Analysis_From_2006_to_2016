@@ -137,7 +137,7 @@ LIMIT 20;
 | Atari | 18.39 | 4.81 | 3.35 | 4 | 30.59 | 20 |
 
 # Graph Chart
-[Download My Power BI Dashboard](Game20%Sales20%BI.pbix)
+[Game Sales BI report](./Game%20Sales%20BI.pbix)
 
 <img width="1271" height="718" alt="Game sales chart" src="https://github.com/user-attachments/assets/4abb9e1e-d4c4-47bc-ba90-8b65a2fc74f9" />
 
