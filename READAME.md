@@ -137,4 +137,6 @@ LIMIT 20;
 | Atari | 18.39 | 4.81 | 3.35 | 4 | 30.59 | 20 |
 
 # Graph Chart
-[View My PDF Report](Game Sales BI (2006~2016).pdf)
+[View My PDF Report](Game%20Sales%20BI%20(2006~2016).pdf)
+
+[![Report Cover](images/report-cover.png)](Game%20Sales%20BI%20(2006~2016).pdf)
