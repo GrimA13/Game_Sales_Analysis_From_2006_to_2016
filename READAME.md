@@ -141,3 +141,5 @@ LIMIT 20;
 
 <img width="1271" height="718" alt="Game sales chart" src="https://github.com/user-attachments/assets/4abb9e1e-d4c4-47bc-ba90-8b65a2fc74f9" />
 
+<img width="1345" height="696" alt="Screenshot 2026-10-29 113227" src="https://github.com/user-attachments/assets/8a1055c4-09ab-4039-8fb7-a19cc3ff30b2" />
+
